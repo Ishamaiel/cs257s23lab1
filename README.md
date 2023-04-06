@@ -5,3 +5,13 @@ hello
 Is this ok
 dragon - Jared Milligan
 coffee -Jared Milligan
+Flag 3
+ ________
+< Flag 3 >
+ --------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+\n\n
