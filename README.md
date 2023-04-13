@@ -44,3 +44,4 @@ Flag9:
 flag9.tgz is a dog smiling, so cute!
 flag5.png is nowhere to be found :(
 Nareg Koshanian
+Flag 9-Jared image is a smiling Corgi!
